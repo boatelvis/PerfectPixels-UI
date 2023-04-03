@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+
+  p {
+    font-family: var(--font-family);
+    font-size: var(--step-0);
+    color: var(--secondary-color);
+
+    a {
+      text-decoration: none;
+    }
+  }
+}
