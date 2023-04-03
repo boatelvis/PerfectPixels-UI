@@ -1,4 +1,4 @@
-import './src/assests/scss/app.css'
+import './src/assets/scss/app.css'
 document.querySelector('#app').innerHTML = `
 
 `
