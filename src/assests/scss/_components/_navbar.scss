@@ -1,6 +1,6 @@
 .navbar {
   display: flex;
-  gap: 2rem;
+  gap: var(--space-m);
   align-items: center;
 
   p {

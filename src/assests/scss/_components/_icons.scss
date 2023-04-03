@@ -1,13 +1,13 @@
 .icons {
   display: flex;
   justify-content: flex-start;
-  margin-top: 2rem;
-  gap: 2rem;
+  margin-top: var(--space-m);
+  gap: var(--space-m);
   aspect-ratio: 1;
 
   img {
-    width: 150px;
-    height: 50px;
+    width: var(--space-2xl-3xl);
+    height: var(--space-l-xl);
     object-fit: cover;
   }
 }

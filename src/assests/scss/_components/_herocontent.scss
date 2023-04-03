@@ -18,8 +18,8 @@
 
   button {
     background-color: var(--secondary-color);
-    border-radius: 4px;
-    height: 50px;
+    border-radius: var(--space-3xs);
+    height: var(--space-l-xl);
 
     a {
       color: #fff;
@@ -27,7 +27,7 @@
       font-family: var(--font-family);
       text-decoration: none;
       text-transform: capitalize;
-      padding-inline: 1rem;
+      padding-inline: var(--space-s-m);
     }
   }
 }
